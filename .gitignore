@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+~$*
+
+# IDE files
+.vscode/
+.idea/
+
+# OneDrive files
+*.lnk
+
+# Cache
+.vite/
+.next/
+.cache/
